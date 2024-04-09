@@ -11,7 +11,6 @@ Aleksandar Slavuljica, Kenan Bektaş, Jannis Strecker, and Simon Mayer. 2024. Ne
 ## 📧 Contact
 
 If you have questions about this research, feel free to contact 
-
 Aleksandar Slavuljica: [aleksandar.slavuljica@student.unisg.ch](mailto:aleksandar.slavuljica@student.unisg.ch) or
 Kenan Bektaş: [kenan.bektas@unisg.ch](mailto:kenan.bektas@unisg.ch)
 
