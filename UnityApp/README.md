@@ -1,0 +1,3 @@
+# Unity Application for NeighboAR
+
+Note that this repository does not contain the Object Detection component. Please have a look at the repository of one of our other projects for the object detector: [/Interactions-HSG/blearvis/tree/main/code/HoloLens/BLEARVIS-Desktop-ObjectDetection](https://github.com/Interactions-HSG/blearvis/tree/main/code/HoloLens/BLEARVIS-Desktop-ObjectDetection). This project uses the same object detection in slightly different setup.
